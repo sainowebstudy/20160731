@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body { font-family: "メイリオ", sans-serif; }
+.bc-pk { background-color: pink; }
+.bc-lg { background-color: lightgreen; }
+.bc-lb { background-color: lightblue; }
+.bc-or { background-color: orange; }
+.sec03 {
+	background-image: url(../img/back01.jpg);
+	background-size: cover;
+	padding: 100px 30px;
+}
+.sec05 {
+	background-image: url(../img/back02.jpg);
+	background-size: cover;
+	padding: 100px 30px;
+}

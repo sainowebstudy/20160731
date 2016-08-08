@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+body { font-family: "メイリオ", sans-serif; }
+.bc-pk { background-color: pink; }
+.bc-lg { background-color: lightgreen; }
+.bc-lb { background-color: lightblue; }
+.bc-or { background-color: orange; }
